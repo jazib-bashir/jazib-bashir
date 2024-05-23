@@ -6,23 +6,23 @@
 
 Technical Team Lead at [Octek](https://octek.co/)
 
-I'm a full stack developer 👨🏻‍💻 from Pakistan 🇵🇰. With over 8 years of experience in the software industry and have worked in a wide range of applications & technologies. My main responsibilities are leading a product’s technical direction with team management including scaleable & software architecture, and team's code quality control with best practices. I'm a Formula 1 Enthusiast and support Max Verstappen 😎.
+I'm a full stack developer 👨🏻‍💻 from Pakistan 🇵🇰. With over 8 years of experience in the software industry and have worked in a wide range of applications & technologies. My main responsibilities are leading a product’s technical direction with team management including scaleable & software architecture, and the team's code quality control with best practices. I'm a Formula 1 Enthusiast and support Max Verstappen 😎.
 
 #### 🤙 Contact :
 <div id="badges">
-  <a href="https://calendly.com/jazibbashir/30min">
+  <a href="https://calendly.com/jazibbashir/30min" target="_blank">
     <img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/jazib-bashir/">
+  <a href="https://www.linkedin.com/in/jazib-bashir/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/3755509/jazib-bashir">
+  <a href="https://stackoverflow.com/users/3755509/jazib-bashir" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="mailto:jazibbashir@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://x.com/JazibBashir">
+  <a href="https://x.com/JazibBashir" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
